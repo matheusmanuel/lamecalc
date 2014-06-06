@@ -1,7 +1,7 @@
 import sys
 
 def add(a, b):
-    return a+a2
+    return a-a2
 
 
 a1 = int(sys.argv[1])
